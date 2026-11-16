@@ -228,3 +228,6 @@ At the end of the workshop you will:
 - Have a link to your GitHub repo
 - Present what you have done covering the items in the `Workshop requirements checklist` above
 - Bonus: You may choose to also produce a dashboard (can be screenshots), SQL queries in BigQuery, or a Python notebook that tells the story.
+
+## our deliverable
+https://docs.google.com/presentation/d/1VR9jweD8VlZS4u3qKsIGrvcivTs2jB-0-gcwu7Sm_RM/edit?pli=1&slide=id.h489788cac6fc277_2_0#slide=id.h489788cac6fc277_2_0 
