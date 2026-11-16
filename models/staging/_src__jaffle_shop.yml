@@ -1,0 +1,12 @@
+  sources:
+    - name: jaffle_shop
+      database: dbt-fall-2026-belyeu
+      schema: dbt_belyeu_william_raw
+      tables:
+        - name: raw_customers
+        - name: raw_items
+        - name: raw_orders
+        - name: raw_products 
+        - name: raw_stores
+        - name: raw_supplies
+        - name: orders
